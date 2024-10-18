@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "public",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "src/content/blog",
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "public/",
+    "README",
+    "templates/",
+    "public/fonts/",
+    "*.jpg"
+  ]
+}
